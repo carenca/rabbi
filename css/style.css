@@ -1,0 +1,29 @@
+.dsch { 
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqClIIkYJg2EeW1OIYoa1Fiz3e-eO3QqDJmA&usqp=CAU);
+  border-style:ridge ;
+  border-radius: 2px;
+  left:20%;
+  right:20%; 
+  position: fixed; 
+  transform:translate(-10,-10) ;}
+.dtut { 
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqClIIkYJg2EeW1OIYoa1Fiz3e-eO3QqDJmA&usqp=CAU);
+  border-style:ridge ;
+  border-radius: 2px;
+  left:20%;
+  right:20%; 
+  position: fixed; 
+  transform:translate(-10,-10) ;}
+.dstu {   
+  border-radius: 10px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqClIIkYJg2EeW1OIYoa1Fiz3e-eO3QqDJmA&usqp=CAU);
+  border-style:ridge ;
+  border-radius: 2px;
+  left:20%;
+  right:20%; 
+  position: fixed; 
+  transform:translate(-10,-10) ;}
+.pw { background-image: url(https://assets.awwwards.com/awards/media/cache/thumb_417_299/submissions/2022/01/61ea9d8016f97631205237.jpg); }
+.pic {width:75%;}
+.zw {font-size: 30px; text-align: center;}
+.iw {align-content: center ;width:75%; }
